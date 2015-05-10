@@ -1,2 +1,2 @@
-# SunShine2
+# Sunshine
 Weather app
