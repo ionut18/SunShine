@@ -1,4 +1,4 @@
-package com.example.catalin.sunshine;
+package com.example.ionutcristian.sunshine;
 
 import android.support.v4.app.Fragment;
 import android.os.Bundle;
@@ -10,9 +10,9 @@ import android.view.ViewGroup;
 /**
  * A placeholder fragment containing a simple view.
  */
-public class DeatailActivityFragment extends Fragment {
+public class DetailActivityFragment extends Fragment {
 
-    public DeatailActivityFragment() {
+    public DetailActivityFragment() {
     }
 
     @Override

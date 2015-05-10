@@ -1,4 +1,4 @@
-package com.example.catalin.sunshine;
+package com.example.ionutcristian.sunshine;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
